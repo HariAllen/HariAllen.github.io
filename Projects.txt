@@ -1,9 +1,7 @@
 Tic-Tac-Toe game
 
-
+Made in the late half of my first semeter at Thaddeus Stevens with Aleks Carr, this is a working tic-tac-toe game. Here is a link for the game so you can play it (https://alekscarr.github.io/tic-tac-toe/), and here is it's code(https://github.com/AleksCarr/tic-tac-toe).
 
 Escape The Room game
 
-
-
-and more to come!
+This was the first mini project that I am pretty proud, a short Escape the Room game. Here is a link for the game so you can play it. Here is it's code, and you can play it side by side(https://repl.it/@HariAllen/Escape-Room#index.js)
