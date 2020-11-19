@@ -1,1 +1,14 @@
+This page will just have an intro for the links above.
+
+Header: (All of the pages, except Resume, will have a Title) Home
+(Under it, or next to it, will be the Nav links for the seperate pages and resume link) Nav Links: Home, About Me, Projects, Resume
+
+About Me: Learn about who I am!
+
+Resume: A link to my resume, which was also done in HTML!
+
+Projects: Here are projects that I am proud of!
+
+Footer: (Just a list of contacts that I have, also on every page)Gmail, Repl.it, Github 
+
 
