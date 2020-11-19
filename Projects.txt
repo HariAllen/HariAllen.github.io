@@ -5,3 +5,6 @@ Made in the late half of my first semeter at Thaddeus Stevens with Aleks Carr, t
 Escape The Room game
 
 This was the first mini project that I am pretty proud, a short Escape the Room game. Here is a link for the game so you can play it. Here is it's code, and you can play it side by side(https://repl.it/@HariAllen/Escape-Room#index.js)
+
+
+Both links will open on new tabs, like the resume will.
