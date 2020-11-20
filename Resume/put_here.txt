@@ -1,4 +1,0 @@
-This will link to the resume I made earlier this year. It will be on a new tab instead of on the same tab. 
-
-
-I will put the HTML and the CSS from the resume into this folder.
