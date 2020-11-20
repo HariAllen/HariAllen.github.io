@@ -1,4 +1,4 @@
 This will link to the resume I made earlier this year. It will be on a new tab instead of on the same tab. 
 
 
-Mark-up: The resume was already made, so I don't think I need to plan a mark-up for it.
+I will put the HTML and the CSS from the resume into this folder.
