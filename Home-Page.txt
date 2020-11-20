@@ -12,3 +12,4 @@ Projects: Here are projects that I am proud of!
 Footer: (Just a list of contacts that I have, also on every page)Gmail, Repl.it, Github 
 
 
+Mark-up: There is a <header> at the top of the page, with <nav> links underneath it. There are 3 <div> boxes with a <img> and link to that page. Lastly, the <footer> at the bottom with the list of my contacts.
