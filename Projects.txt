@@ -8,3 +8,6 @@ This was the first mini project that I am pretty proud, a short Escape the Room 
 
 
 Both links will open on new tabs, like the resume will.
+
+
+Mark-up: There is a <header> at the top of the page, with <nav> links under it. The two <div> tags will have a <img> of the project, and next to it <p> tags with the text above. Lastly, the <footer> at the bottom with the list of my contacts.
