@@ -5,3 +5,6 @@ I am Hari Allen, born and raised in Philadelphia, PA. I moved to Lebanon, PA on 
 What I have done
 
 Because of my late introduction to coding, along with not having my own personal computer until I was 18, I don't have many accomplishments in the way of coding. What I do have, however, are my skills in working as a team and being a leader from my time as a Football and Track and Field Captain in highschool, along with being one of the top students in my year. This would help me land a summer job Lebanon High's Tech Department, which you can learn more from my Resume link above.
+
+
+Mark-up: There is a <header> at the left side, with <nav> links to the right of it. The two paragraphs above are <p> tags with <h2> tags or something close to that. Lastly, the <footer> on the right most side, with the list of my contacts.
