@@ -1,9 +1,37 @@
-* {
-  background-color: black;
-  color: white;
+section{
+  color: #594D4D;
+  font-family: Lucida Console;
+  margin: center;
+  font-kerning: normal;
 }
 
-a{
-  text-decoration: none;
+
+body {
+  background-color: azure;
+}
+
+img {
+  border-radius: 50%;
+  margin: center;
+  max-width: 250px;
+  height: auto;
+  filter: brightness(0.9);
+}
+
+p, section, nav, footer{
+  font-family: Lucida;
+}
+
+ul {
+  list-style-type: square;
+}
+
+body{
+  font-family: Arial Black;
+}
+
+h1, h2, h3 {
+  border-bottom: 4px dotted red;
+  font-family: Arial Black;
 
 }
